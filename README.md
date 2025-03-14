@@ -13,3 +13,8 @@
     - alerts important notifications
 - Schedule Builder
     - creates reusable event posters and images
+- Meta Decklist Pie Chart
+    - manual entry of decklists from judges
+    - display pie-chart of meta breakdown
+- Prizing Calculator
+    - distribute packs evenly, scaled lightly or moderately
